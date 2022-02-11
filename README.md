@@ -74,3 +74,24 @@ This project was developed with **Swing** library.
 **:white_check_mark: Adding the product to the cart :white_check_mark:**
 
 ![Satış ekranı (seçili ürünün sepete eklenmesi)](https://user-images.githubusercontent.com/79416722/153667774-2ecbebcd-84b5-426a-8d59-f33a52a27529.PNG)
+
+:point_right: Then, when the customer presses the **Purchase** button, customer sees a **Warning** message on the screen.
+:point_right: If customer presses the **OK** button, the **credit card payment screen** appears.
+:point_right: If customer presses the **Cancel** button, customer **will not** make payment.
+
+![Satış ekranı (purchase butonuna bastıktan sonra çıkan onay mesajı)](https://user-images.githubusercontent.com/79416722/153668596-7f11514f-975d-49f0-8a7b-08c802269e79.PNG)
+
+
+** :credit_card: Payment Screen :wink: **
+
+![Payment screen](https://user-images.githubusercontent.com/79416722/153668831-d36b968a-6e6e-4aa5-bde1-018807216304.PNG)
+
+
+**:no_entry_sign: If credit card information is missing**
+
+![Payment screen (Uyarı mesajı)](https://user-images.githubusercontent.com/79416722/153668961-62c01f0f-492a-4279-97e0-99a4a86edc5a.PNG)
+
+
+**:white_check_mark: If payment is successful**
+
+![Payment screen (Ödeme başarılı)](https://user-images.githubusercontent.com/79416722/153669432-d3d32c13-15a0-484e-bd50-afe956d0830a.PNG)
