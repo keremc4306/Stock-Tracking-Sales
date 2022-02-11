@@ -29,3 +29,19 @@ This project was developed with **Swing** library.
 
 ![Stok ekranı (ekleme işlemi yapıldıktan sonra)](https://user-images.githubusercontent.com/79416722/153663726-0c7b339a-315b-4325-9d6f-4c401c1d57d7.PNG)
 
+
+:point_right: For example, the stockist will update the product price and number of stock as follows. 
+
+**Stock screen (Before product information was updated)**
+
+![Stok ekranı (ürün bilgisi güncellenmeden önce)](https://user-images.githubusercontent.com/79416722/153664932-9129c6b1-1901-4d0a-8183-711fbc51436c.PNG)
+
+
+:point_right: When the product's price and number of stock are changed and then the **Update** button is pressed, the **price** and **number of stock** will be updated according to the **Item No** value of the selected row.
+
+**Stock screen (After product information was updated)**
+
+![Stok ekranı (ürün bilgisi güncellendikten sonra)](https://user-images.githubusercontent.com/79416722/153664991-9abb9c88-0702-4ba2-92fa-c11234dae669.PNG)
+
+
+
