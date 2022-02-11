@@ -52,6 +52,6 @@ This project was developed with **Swing** library.
 ![Stok ekranı (silme işlemi yapılmadan önce)](https://user-images.githubusercontent.com/79416722/153665723-dbc7ae1c-1654-4bbd-bc99-a3ec785198a5.PNG)
 
 
-:point_down A dialog box will appear as below.
+:point_down: A dialog box will appear as below.
 
 ![Stok ekranı (silme işlemi yapıldıktan sonra)](https://user-images.githubusercontent.com/79416722/153665978-7eec5378-807c-42f5-adde-e005189e4f7e.PNG)
