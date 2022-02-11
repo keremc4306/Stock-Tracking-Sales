@@ -55,3 +55,22 @@ This project was developed with **Swing** library.
 :point_down: A dialog box will appear as below.
 
 ![Stok ekranı (silme işlemi yapıldıktan sonra)](https://user-images.githubusercontent.com/79416722/153665978-7eec5378-807c-42f5-adde-e005189e4f7e.PNG)
+
+
+:point_right: If a customer wants to buy a product, customer will press the **SALES** button from the **Main Screen**.
+:point_right: Then the sales screen will open. Customer will see the products in the list.
+:point_right: According to which criteria the customer wants to buy the product, customer makes the markings. Then customer **filters** by pressing the **Search** button.
+
+**:white_check_mark: Filtering :white_check_mark:**
+
+![Satış ekranı (marka işlemci ram ve ssdye göre filtreleme)](https://user-images.githubusercontent.com/79416722/153667345-eb0fcb9e-1bb8-4202-937f-d2b26ea731f9.PNG)
+
+:point_right: The customer chooses the product he wants to buy from the table.
+:point_right: Then the customer presses the add to cart button.
+:point_right: Then the customer sets the quantity value at the bottom of the cart.
+:point_right: When the customer clicks the add button, he sees the quantity and the current stock number.
+
+
+**:white_check_mark: Adding the product to the cart :white_check_mark:**
+
+![Satış ekranı (seçili ürünün sepete eklenmesi)](https://user-images.githubusercontent.com/79416722/153667774-2ecbebcd-84b5-426a-8d59-f33a52a27529.PNG)
