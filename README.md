@@ -6,7 +6,7 @@ This project was developed with **Swing** library.
 
 **:tada::tada: Main Screen :tada::tada:**
 
-![Main screen](https://user-images.githubusercontent.com/79416722/153661087-acf7a437-4f23-4f2a-8ce1-7ba2b7f756e0.PNG)
+![Main screen](https://user-images.githubusercontent.com/79416722/161760050-0f3e8383-8ee3-4e1f-b1b5-bb29d2edc6ec.PNG)
 
 :point_right: Stockist presses the **STOCK ENTRY** button.
 
